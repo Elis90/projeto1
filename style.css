@@ -196,7 +196,7 @@ footer {
   }
 }
 
-@keyframes slide-back {`
+@keyframes slide-back {
   from {
     left: 50%;
   }
